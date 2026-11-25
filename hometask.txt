@@ -6,3 +6,10 @@
 создается человечек-> + ветка head -> + ветка boots -> + ветка buttons -> создание ветки buttonboots и сливание в нее кнопок и ботинок
 после чего buttonboots и hat сливаются в master
 человечек выглядит одинаково, но разная структура
+
+commits:
+result for h/w task
+Merge branch 'buttonboots'
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/buttons' into buttonboots
+Merge remote-tracking branch 'origin/boots' into buttonboots
